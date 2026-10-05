@@ -366,49 +366,32 @@ This project demonstrates practical implementation of:
 ## Screenshots
 
 ### Login
-
-Add your screenshot here:
-
-```text
-screenshots/mockup_login.png
-```
+<img src="screenshots/mockup_login.png" alt="Login Screen" width="750">
 
 ### Dashboard
-
-```text
-screenshots/mockup_dashboard.png
-```
+<img src="screenshots/mockup_dashboard.png" alt="Dashboard Screen" width="750">
 
 ### Vehicle Management
-
-```text
-screenshots/mockup_vehicle_management.png
-```
+<img src="screenshots/mockup_vehicle_management.png" alt="Vehicle Management Screen" width="750">
 
 ### Vehicle Rental
+<img src="screenshots/mockup_new_rental.png" alt="Vehicle Rental Screen" width="750">
 
-```text
-screenshots/mockup_new_rental.png
-```
-
-### Vehicle Return
-
-```text
-screenshots/mockup_return_settlement.png
-```
+### Vehicle Return & Settlement
+<img src="screenshots/mockup_return_settlement.png" alt="Vehicle Return Screen" width="750">
 
 ### Invoice
+<img src="screenshots/mockup_invoice.png" alt="Invoice Screen" width="750">
 
-```text
-screenshots/mockup_invoice.png
-```
+### Reports & Analytics
+<img src="screenshots/mockup_reports.png" alt="Reports Screen" width="750">
 
-### Reports
+### Architecture & Class Diagrams
+<img src="screenshots/diagram_architecture.png" alt="Architecture Diagram" width="750">
 
-```text
-screenshots/mockup_reports.png
-```
+<br>
 
+<img src="screenshots/diagram_class.png" alt="Class Diagram" width="750">
 ---
 
 ## Author
